@@ -1,0 +1,13 @@
+アイコン
+52*52
+
+対応表
+main_1…妄想
+main_1-1…sadaharu
+main_1_1_parallalel…sadaharu_p
+
+main_2…自分なりの用語集
+
+
+cd www
+chmod 644

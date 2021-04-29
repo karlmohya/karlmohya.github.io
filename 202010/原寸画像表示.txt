@@ -1,0 +1,7 @@
+<script>‚Ìã‚ÉˆÈ‰º‚ð‹²‚Þ
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="script.js"></script>
+
+‰æ‘œ‚Ì‚Æ‚±‚ë‚ð
+<a href="yarusea.jpg" data-lity="data-lity"><img alt="yarusea" height=auto src="yarusea.jpg" width="700" class="gazou"></a>
+‚ÌŒ`‚É‚·‚é
